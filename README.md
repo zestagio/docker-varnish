@@ -1,7 +1,7 @@
-# Varnish docker container
+Varnish docker container
+===========
 
-## Environment Variables Available for Customization
-
+### Varnish environment variables
 | Environment Variable | Type | Default Value |
 | -------------------- | -----| ------------- |
 | VARNISH_BACKEND_HOST                  | String | 127.0.0.1 |
