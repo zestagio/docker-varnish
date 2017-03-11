@@ -2,6 +2,8 @@ Varnish docker container
 ===========
 
 ### Varnish environment variables
+Varnish will use the following environment variables. You can override them if you want
+
 | Environment Variable | Type | Default Value |
 | -------------------- | -----| ------------- |
 | VARNISH_BACKEND_HOST                  | String | 127.0.0.1 |
